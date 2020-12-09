@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 //Attach this onto the camera. This Script will grab the camera, and send Rays based on click input. If a Ray collides
 //with a collider on the Interactive Layer, it will send a message to call the OnInteract() function on the object.
-//This is useful for interacting with generic objects.
 public class Cam_FPSInteract_Mobile : MonoBehaviour {
 
 
