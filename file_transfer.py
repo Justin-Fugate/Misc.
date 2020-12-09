@@ -1,8 +1,8 @@
 import os
 import shutil
 
-target_folder = r'C:\Users\Justin\Desktop\Freelance\Nick Kurz- Gifford Monument\03_PRODUCTION\Assets\Monument Images From Client\Monument_Images' + '\\'
-source_folder = r'C:\Users\Justin\Desktop\Freelance\Nick Kurz- Gifford Monument\03_PRODUCTION\Assets\Monument Images From Client\Single Uprights' + '\\'
+target_folder = r'C:\Users\Justin\Desktop\Freelance\Monument\03_PRODUCTION\Assets\Monument Images From Client\Monument_Images' + '\\'
+source_folder = r'C:\Users\Justin\Desktop\Freelance\Monument\03_PRODUCTION\Assets\Monument Images From Client\Single Uprights' + '\\'
 
 
 def move_files(sourceFolder, targetFolder):
